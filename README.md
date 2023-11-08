@@ -8,27 +8,28 @@ This is a language designed to be better than English. English has many flaws in
 
 ## Getting Started
 
-### Executing program
+### Downloading Keyboard
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Download `
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+### Using Keyboard
+
+* If it isn't Working
+   * Go into settings
+   * Goto `Time & Language > Language & Region > Add a language > isiXhosha`
+* If it Still isn't Working
+   * Goto The menu button for `isiXhosha` then `Language options > Add a keyboard > Magna keyboard`
+* If it Still Doesn't Work
+   * IDK how to help you
 
 ## Authors
 
 Contributors names and contact info
 
 * Mildly Inteligent
-* [@mildlyintelligent](https://www.discordapp.com/users/1149807709269536849)
+   * [@mildlyintelligent](https://www.discordapp.com/users/1149807709269536849) on discord
 
 ## Version History
 * 0.1
