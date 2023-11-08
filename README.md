@@ -27,8 +27,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* Mildly Inteligent
+* [@mildlyintelligent](discordapp.com/users/1149807709269536849)
 
 ## Version History
 * 0.1
@@ -39,3 +39,5 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
+
+Me
