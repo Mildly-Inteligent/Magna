@@ -10,7 +10,9 @@ This is a language designed to be better than English. English has many flaws in
 
 ### Downloading Keyboard
 
-* Download `
+* Download & extract magna.zip
+* Run setup.exe
+* Press Windows + Space to switch language on windows
 
 ## Help
 
