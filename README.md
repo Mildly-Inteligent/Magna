@@ -28,7 +28,7 @@ command to run if program contains helper info
 Contributors names and contact info
 
 * Mildly Inteligent
-* [@mildlyintelligent](discordapp.com/users/1149807709269536849)
+* [@mildlyintelligent](https://www.discordapp.com/users/1149807709269536849)
 
 ## Version History
 * 0.1
