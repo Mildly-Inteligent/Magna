@@ -1,22 +1,12 @@
-# Project Title
+# Magna Lingua
 
-Simple overview of use/purpose.
+This is a language designed to be better than English. English has many flaws in its sentance structure and alphabet and this project aims to fix that.
 
 ## Description
 
 An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
